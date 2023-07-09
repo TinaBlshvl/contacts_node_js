@@ -1,5 +1,5 @@
 {
-  "name": "1",
+  "name": "contacts-node_js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "module",
-    "url": "git+https://github.com/TinaBlshvl/contacts_node_js.git"
+    "url": "git+https://github.com/TinaBlshvl/contacts_node_js"
   },
   "keywords": [],
   "author": "",
