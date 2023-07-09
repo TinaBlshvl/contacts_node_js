@@ -8,9 +8,17 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/TinaBlshvl/contacts_node_js.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinaBlshvl/contacts_node_js/issues"
+  },
+  "homepage": "https://github.com/TinaBlshvl/contacts_node_js#readme",
   "dependencies": {
     "commander": "^11.0.0",
     "cors": "^2.8.5",
