@@ -19,11 +19,11 @@
     "url": "https://github.com/TinaBlshvl/contacts_node_js/issues"
   },
   "homepage": "https://github.com/TinaBlshvl/contacts_node_js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
   "dependencies": {
-    "commander": "^11.0.0",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "nanoid": "^4.0.2",
-    "nodemon": "^3.0.1"
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
   }
 }
